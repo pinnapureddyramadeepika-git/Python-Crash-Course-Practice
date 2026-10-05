@@ -1,0 +1,16 @@
+guests = ['ram','krish','vishn','shiv']
+print (f'hey {guests},I found a bigger table for dinner..!')
+guests.insert(0,'venky')
+print (guests)
+guests.insert(3,'chennakeshav')
+print(guests)
+guests.append ('subramanyam')
+print (guests)
+invite = 'This is Deepika inviting you for the dinner.I hope you make it to the dinner.'
+print(f'{guests[0]},',invite)
+print(f'{guests[1]},',invite)
+print(f'{guests[2]},',invite)
+print(f'{guests[3]},',invite)
+print(f'{guests[4]},',invite)
+print(f'{guests[5]},',invite)
+print(f'{guests[6]},',invite)

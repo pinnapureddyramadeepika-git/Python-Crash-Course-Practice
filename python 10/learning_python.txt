@@ -1,0 +1,6 @@
+#summarising what i have learned about python so far 
+In Python you can create a variable and assign it a value
+In Python you can create lists which are mutable and tuples which are Immutable
+In Python you can define functions and call it using arguments
+In Python you can create classes and methods and can use methods that are defined inside the class
+In Python you can use conditional statements like if,if-else,elif,nested elif etc to check the possibility  like yes or no 
